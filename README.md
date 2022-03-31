@@ -1,1 +1,1 @@
-# discord_test_bot
+# discord_bot
